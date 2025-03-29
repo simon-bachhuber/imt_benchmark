@@ -1,2 +1,2 @@
-from ._benchmark import benchmark
-from ._benchmark import IMTP
+from .benchmark import benchmark
+from .benchmark import IMTP
